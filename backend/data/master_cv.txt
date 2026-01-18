@@ -1,0 +1,53 @@
+Christoffer Ek
+stoffeek21@gmail.com ||  0723193535
+GitHub: https://github.com/stoffeek 
+ LinkedIn: https://www.linkedin.com/in/christoffer-ek-17649b281
+
+About Me
+Full-stack developer with a strong focus on React, Next.js, TypeScript and building clean, maintainable UIs.
+I work with C# and .NET on the backend, creating scalable APIs and well-structured system architecture.
+I'm currently expanding my skillset with Python and LLM-based tools, exploring how machine learning and automation can enhance modern applications.
+
+            Core Strengths                                                       Growing Skills
+⦁	C#, .NET, Node.js, Express
+⦁	React, Next.js, TypeScript, Tailwind CSS
+⦁	MySQL, PostgreSQL
+⦁	Clean and secure/scalable code
+⦁	Agile teamwork
+	⦁	Python and AI tools(LM studio)
+⦁	Terraform & Infrastructure as Code
+⦁	Shopify
+⦁	Cloud deployments (AWS, Azure)
+
+            Tools                                                      
+⦁	Docker, GitHub Actions (CI/CD), Vercel 
+⦁	Canva
+⦁	Postman 
+⦁	Visual Studio / VS Code
+	
+
+
+Current Role - Fullstack Developer (April 2025 – Present)
+⦁	Build and maintain production-ready web apps using Next.js, React, TypeScript and Tailwind CSS   
+⦁	Deploy, monitor and configure applications through Vercel   
+⦁	Improve SEO, metadata structure and performance   
+⦁	Develop and maintain a Shopify webshop with custom integrations
+Internship - Web Application Developer (Sigma Connectivity)
+⦁	Developed a web app in React to automate contract handling  
+⦁	Implemented dynamic fields, draft-saving, and smart naming (e.g. user + date) 
+⦁	Converted DOCX to PDF using LibreOffice in a separate container  
+⦁	Built and migrated databases from AWS to MySQL  
+⦁	Structured app into microservices: frontend, backend, DB, LibreOffice  
+⦁	Integrated Comfact e-signing API and reduced redundant requests by caching data at login  
+⦁	Created responsive UI with improved UX across devices  
+⦁	Created custom data models to store and extract relevant contract information
+⦁	
+Education
+JENSEN Vocational Program – Software Engineering with Security Focus “August 2023 – January 2025”
+⦁	Teknikutbildarna – El och energi programmet “2020-02-17 – 2021-08-17"
+⦁	
+Previous Experience
+PT Coach – 2019 to Present 
+Ventilation  – Totalplåt/Sydtotal, 2010 to 2020 
+Ventilation  – Veab, 2008 to 2010 
+Electrician & data networking - 2 month internship

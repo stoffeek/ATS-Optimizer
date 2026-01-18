@@ -1,0 +1,74 @@
+Junior systemutvecklare
+E-hälsomyndigheten
+Systemutvecklare/Programmerare
+Kommun: Kalmar
+Kort arbetsbeskrivning
+Omfattning: Heltid
+Varaktighet: Tillsvidare
+Anställningsform: Tillsvidare- eller tidsbegränsad anställning
+Antal jobb: 5
+Sök jobbet
+Sista ansökningsdag: 8 februari (om 21 dagar)
+Om jobbet
+Är du en nyfiken systemutvecklare som vill lära dig mer än bara kod på jobbet? Vill du vara med och utveckla framtidens digitala lösningar för läkemedelshantering i Sverige? Då kan det här vara en roll för dig.
+
+Om tjänsten
+Som fullstackutvecklare på E‑hälsomyndigheten blir du en viktig del av ett tvärfunktionellt och agilt team där ni tillsammans skapar lösningar som gör verklig skillnad för samhället. Här får du arbeta med både backend i Java och frontend i Vue, och du får möjlighet att utveckla kvalitativa system genom testdriven utveckling, automatisering och ren kodglädje.
+
+Hos oss är kvalitet inte bara ett mål – det är en självklar del av arbetet. Tillsammans med dina kollegor tar du ansvar för att den kod ni levererar håller hög standard och är hållbar över tid. Ni stöttar varandra där det behövs, oavsett om det handlar om utveckling, design, drift eller test.
+
+Vi uppmuntrar dig till att ta ett stort eget ansvar, samtidigt som du blir en del av en kultur där samarbete och helhetstänk är centralt. Här får du både växa som utvecklare och bidra till att skapa framtidens digitala lösningar för e‑hälsa.
+
+Om dig
+Vi söker dig som är samarbetsvillig och hjälpsam. Du tar ansvar för teamets arbete och strävar efter att leverera hållbara lösningar med hög kvalitet. Som person är du nyfiken, initiativrik och vill utvecklas tillsammans med oss. Du har en god kommunikativ förmåga och ett lösningsorienterat förhållningssätt på jobbet.
+
+Vi söker dig som har:
+
+
+• minst två-årig eftergymnasial utbildning inom it/systemutveckling
+• aktuell erfarenhet av Java
+• goda kunskaper i svenska, både i tal och skrift.
+
+Det är meriterande för tjänsten om du har: 
+
+
+• aktuell erfarenhet av arbete med Vue eller React
+• aktuell erfarenhet av att konstruera och genomföra automatiserade tester.
+
+Vad erbjuder vi?
+E-hälsomyndigheten är en myndighet i tillväxt och vi driver utvecklingen av nationell digital infrastruktur inom hälsa, vård och omsorg. Vi skapar förutsättningar för digitala tjänster och lösningar för både privatpersoner och professioner inom hälso- och sjukvård, apotek och socialtjänst. Vi arbetar för att hälsodata ska bli tillgängliga i hela vårdkedjan.
+
+Vi är cirka 600 medarbetare i Kalmar och Stockholm. Hos oss finns möjlighet att göra skillnad i en innovativ miljö med trevliga och kompetenta arbetskamrater. Alla medarbetare har förtroendearbetstid och kan arbeta delvis på distans. Läs mer om E-hälsomyndigheten som arbetsplats: Jobba hos oss
+
+Är du intresserad?
+Frågor angående tjänsten besvaras av enhetschef Frida Melin, 010-106 0772.
+
+Frågor angående rekryteringsprocessen besvaras av HR-specialist Dorothea Lockman, 010-175 3741.
+
+Välkommen att skicka in din ansökan och cv via vårt rekryteringsverktyg senast den 8 februari. Ladda upp examensbevis, betyg och intyg som är relevanta för tjänsten i samband med din ansökan. Vi använder oss av arbetsprov som en del av rekryteringsprocessen.
+
+Anställningen är tillsvidare med sex månaders provanställning. Tillträde snarast eller enligt överenskommelse. Placeringsort för anställningen är Kalmar eller Stockholm. Arbetet kan innebära tjänsteresor, främst mellan Kalmar och Stockholm.
+
+En anställning hos oss kan innebära placering i säkerhetsklass. Därför kan vi komma att behöva genomföra en säkerhetsprövning med registerkontroll enligt säkerhetsskyddslagen (2018:585). För en del arbetsuppgifter i säkerhetsklass krävs svenskt medborgarskap.
+
+Om du har beslut om skyddade personuppgifter, kontakta den HR-specialist som finns namngiven i annonsen.
+
+Läs mer om oss på www.ehalsomyndigheten.se
+
+Rekryteringen hanteras av E-hälsomyndighetens HR-enhet och vi undanber oss säljsamtal från rekryteringsföretag och annonssäljare.
+Läs mindre
+Övrig information
+Lön
+Månadslön
+Lönetyp: Fast månads- vecko- eller timlön
+Anställningsvillkor
+Dagtid
+Var ligger arbetsplatsen?
+Arbetsplatsen ligger i kommunen Kalmar i Kalmar län.
+Arbetsgivare
+E-Hälsomyndigheten
+https://www.ehalsomyndigheten.se/jobba-hos-oss/
+Postadress
+E-Hälsomyndigheten
+Box 913
+39129 Kalmar
